@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @The1stChaos
+- 👋 Hi, I’m Terron Webb
 - 👀 I’m interested in programming especially, SQL, Excel, and Cloud Computing
 - 🌱 Finsihed Bachelors Degree of Science in Computer Science | Cum Laude
 - 💞️ I’m looking to collaborate on ...
